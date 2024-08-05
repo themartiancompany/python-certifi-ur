@@ -63,8 +63,6 @@ _get_usr() {
     "${_usr}"
 }
 
-
-
 prepare() {
   cd \
     "${pkgname}-${pkgver}"
